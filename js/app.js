@@ -1003,8 +1003,15 @@ function createEditorItem(item) {
   "main-end-item"
    );
 
-    div.innerHTML =
-  "<strong>本編終了</strong>";
+    div.innerHTML = `
+  <span class="drag-handle">
+    ☰
+  </span>
+
+  <strong>
+    本編終了
+  </strong>
+`;
 
     return div;
 
@@ -1021,15 +1028,21 @@ function createEditorItem(item) {
   item.id;
 
     div.innerHTML = `
-      MC
+  <span class="drag-handle">
+    ☰
+  </span>
 
-      <button
-        data-id="${item.id}"
-        class="delete-mc-btn"
-      >
-        削除
-      </button>
-    `;
+  <span>
+    MC
+  </span>
+
+  <button
+    data-id="${item.id}"
+    class="delete-mc-btn"
+  >
+    削除
+  </button>
+`;
 
     return div;
 
@@ -1047,8 +1060,15 @@ div.dataset.type =
 div.dataset.songId =
   item.songId;
 
-div.textContent =
-  song.title;
+div.innerHTML = `
+  <span class="drag-handle">
+    ☰
+  </span>
+
+  <span>
+    ${song.title}
+  </span>
+`;
 
   return div;
 
@@ -1354,6 +1374,8 @@ function initializeSortable() {
       {
 
         animation: 150,
+
+        handle: ".drag-handle",
 
         ghostClass:
           "sortable-ghost",
