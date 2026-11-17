@@ -177,13 +177,13 @@ summary {
 .card {
   background: #ffffff;
   border: 1px solid #e5e5e5;
-  border-radius: 10px;
+  border-radius: 8px;
 
-  padding: 12px;
-  margin-bottom: 10px;
+  padding: 10px;
+  margin-bottom: 8px;
 
   box-shadow:
-    0 1px 4px rgba(
+    0 1px 3px rgba(
       0,
       0,
       0,
@@ -192,21 +192,17 @@ summary {
 
 }
 
-.card button {
-  padding: 8px 12px;
-  margin-top: 8px;
-}
-
 .song-title {
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: bold;
-  margin-bottom: 4px;
+  margin-bottom: 2px;
+  line-height: 1.3;
 }
 
 .release {
   color: #777777;
-  font-size: 0.9rem;
-  margin-bottom: 6px;
+  font-size: 0.85rem;
+  margin-bottom: 4px;
 }
 
 /* =========================
@@ -215,10 +211,10 @@ summary {
 
 .badge {
   display: inline-block;
-  padding: 2px 8px;
+  padding: 2px 6px;
   border-radius: 999px;
-  margin-bottom: 12px;
-  font-size: 0.8rem;
+  margin-bottom: 6px;
+  font-size: 0.75rem;
   font-weight: 600;
 }
 
@@ -375,4 +371,10 @@ hr {
 .main-end-item {
   background: #fff9f9;
   border-color: #f0c9d7;
+}
+
+.card button {
+  margin-top: 4px;
+  padding: 6px 10px;
+  font-size: 0.9rem;
 }
