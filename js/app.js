@@ -1346,7 +1346,39 @@ async function saveAsImage() {
       "image/png"
     );
 
+  const image =
+  canvas.toDataURL(
+    "image/png"
+  );
+
+const isIOS =
+  /iPhone|iPad|iPod/.test(
+    navigator.userAgent
+  );
+
+if (isIOS) {
+
+  window.open(
+    image,
+    "_blank"
+  );
+
+} else {
+
+  const link =
+    document.createElement(
+      "a"
+    );
+
+  link.download =
+    "setlist.png";
+
+  link.href =
+    image;
+
   link.click();
+
+}
 
 }
 
