@@ -282,6 +282,30 @@ summary {
   background: #ffffff;
 }
 
+.mc-item {
+  background: #fff9d9;
+  border-color: #f2df7b;
+}
+
+.main-end-item {
+  background: #ffe7ee;
+  border-color: #9cf7b0;
+}
+
+.delete-mc-btn {
+
+  width: auto;
+
+  padding: 4px 8px;
+
+  font-size: 0.8rem;
+
+  margin-left: 8px;
+
+  background: #e57373;
+
+}
+
 .drag-handle {
 
   cursor: grab;

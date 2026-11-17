@@ -1021,6 +1021,10 @@ function createEditorItem(item) {
     item.type === "mc"
   ) {
 
+　　div.classList.add(
+  "mc-item"
+　　);
+
     div.dataset.type =
   "mc";
 
@@ -1040,7 +1044,7 @@ function createEditorItem(item) {
     data-id="${item.id}"
     class="delete-mc-btn"
   >
-    削除
+    ✕
   </button>
 `;
 
