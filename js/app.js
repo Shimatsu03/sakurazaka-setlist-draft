@@ -1021,9 +1021,8 @@ function createEditorItem(item) {
     item.type === "mc"
   ) {
 
-　　div.classList.add(
-  "mc-item"
-　　);
+    div.classList.add(
+     "mc-item");
 
     div.dataset.type =
   "mc";
