@@ -1,0 +1,849 @@
+[
+  {
+    "id": 1,
+    "group": "櫻坂46",
+    "title": "Nobody's fault",
+    "release": "1stシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 2,
+    "group": "櫻坂46",
+    "title": "なぜ 恋をして来なかったんだろう？",
+    "release": "1stシングル",
+    "category": "なし"
+  },
+  {
+    "id": 3,
+    "group": "櫻坂46",
+    "title": "半信半疑",
+    "release": "1stシングル",
+    "category": "なし"
+  },
+  {
+    "id": 4,
+    "group": "櫻坂46",
+    "title": "Plastic regret",
+    "release": "1stシングル",
+    "category": "なし"
+  },
+  {
+    "id": 5,
+    "group": "櫻坂46",
+    "title": "最終の地下鉄に乗って",
+    "release": "1stシングル",
+    "category": "なし"
+  },
+  {
+    "id": 6,
+    "group": "櫻坂46",
+    "title": "Buddies",
+    "release": "1stシングル",
+    "category": "なし"
+  },
+  {
+    "id": 7,
+    "group": "櫻坂46",
+    "title": "ブルームーンキス",
+    "release": "1stシングル",
+    "category": "なし"
+  },
+  {
+    "id": 8,
+    "group": "櫻坂46",
+    "title": "BAN",
+    "release": "2ndシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 9,
+    "group": "櫻坂46",
+    "title": "偶然の答え",
+    "release": "2ndシングル",
+    "category": "なし"
+  },
+  {
+    "id": 10,
+    "group": "櫻坂46",
+    "title": "それが愛なのね",
+    "release": "2ndシングル",
+    "category": "なし"
+  },
+  {
+    "id": 11,
+    "group": "櫻坂46",
+    "title": "君と僕と洗濯物",
+    "release": "2ndシングル",
+    "category": "なし"
+  },
+  {
+    "id": 12,
+    "group": "櫻坂46",
+    "title": "Microscope",
+    "release": "2ndシングル",
+    "category": "なし"
+  },
+  {
+    "id": 13,
+    "group": "櫻坂46",
+    "title": "思ったよりも寂しくない",
+    "release": "2ndシングル",
+    "category": "なし"
+  },
+  {
+    "id": 14,
+    "group": "櫻坂46",
+    "title": "櫻坂の詩",
+    "release": "2ndシングル",
+    "category": "なし"
+  },
+  {
+    "id": 15,
+    "group": "櫻坂46",
+    "title": "流れ弾",
+    "release": "3rdシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 16,
+    "group": "櫻坂46",
+    "title": "Dead end",
+    "release": "3rdシングル",
+    "category": "なし"
+  },
+  {
+    "id": 17,
+    "group": "櫻坂46",
+    "title": "ソニア",
+    "release": "3rdシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 18,
+    "group": "櫻坂46",
+    "title": "ジャマイカビール",
+    "release": "3rdシングル",
+    "category": "なし"
+  },
+  {
+    "id": 19,
+    "group": "櫻坂46",
+    "title": "On my way",
+    "release": "3rdシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 20,
+    "group": "櫻坂46",
+    "title": "無言の宇宙",
+    "release": "3rdシングル",
+    "category": "なし"
+  },
+  {
+    "id": 21,
+    "group": "櫻坂46",
+    "title": "美しきNervous",
+    "release": "3rdシングル",
+    "category": "なし"
+  },
+  {
+    "id": 22,
+    "group": "櫻坂46",
+    "title": "五月雨よ",
+    "release": "4thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 23,
+    "group": "櫻坂46",
+    "title": "僕のジレンマ",
+    "release": "4thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 24,
+    "group": "櫻坂46",
+    "title": "I'm in",
+    "release": "4thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 25,
+    "group": "櫻坂46",
+    "title": "断絶",
+    "release": "4thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 26,
+    "group": "櫻坂46",
+    "title": "制服の人魚",
+    "release": "4thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 27,
+    "group": "櫻坂46",
+    "title": "車間距離",
+    "release": "4thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 28,
+    "group": "櫻坂46",
+    "title": "恋が絶滅する日",
+    "release": "4thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 29,
+    "group": "櫻坂46",
+    "title": "摩擦係数",
+    "release": "1stアルバム",
+    "category": "表題曲"
+  },
+  {
+    "id": 30,
+    "group": "櫻坂46",
+    "title": "条件反射で泣けて来る",
+    "release": "1stアルバム",
+    "category": "なし"
+  },
+  {
+    "id": 31,
+    "group": "櫻坂46",
+    "title": "One-way stairs",
+    "release": "1stアルバム",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 32,
+    "group": "櫻坂46",
+    "title": "タイムマシーンでYeah!",
+    "release": "1stアルバム",
+    "category": "一期生曲"
+  },
+  {
+    "id": 33,
+    "group": "櫻坂46",
+    "title": "ずっと 春だったらなあ",
+    "release": "1stアルバム",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 34,
+    "group": "櫻坂46",
+    "title": "桜月",
+    "release": "5thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 35,
+    "group": "櫻坂46",
+    "title": "Cool",
+    "release": "5thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 36,
+    "group": "櫻坂46",
+    "title": "無念",
+    "release": "5thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 37,
+    "group": "櫻坂46",
+    "title": "もしかしたら真実",
+    "release": "5thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 38,
+    "group": "櫻坂46",
+    "title": "魂のLiar",
+    "release": "5thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 39,
+    "group": "櫻坂46",
+    "title": "夏の近道",
+    "release": "5thシングル",
+    "category": "三期生曲"
+  },
+  {
+    "id": 40,
+    "group": "櫻坂46",
+    "title": "その日まで",
+    "release": "5thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 41,
+    "group": "櫻坂46",
+    "title": "Start over!",
+    "release": "6thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 42,
+    "group": "櫻坂46",
+    "title": "静寂の暴力",
+    "release": "6thシングル",
+    "category": "三期生曲"
+  },
+  {
+    "id": 43,
+    "group": "櫻坂46",
+    "title": "風の音",
+    "release": "6thシングル",
+    "category": "一期生曲"
+  },
+  {
+    "id": 44,
+    "group": "櫻坂46",
+    "title": "コンビナート",
+    "release": "6thシングル",
+    "category": "二期生曲"
+  },
+  {
+    "id": 45,
+    "group": "櫻坂46",
+    "title": "Anthem time",
+    "release": "6thシングル",
+    "category": "三期生曲"
+  },
+  {
+    "id": 46,
+    "group": "櫻坂46",
+    "title": "一瞬の馬",
+    "release": "6thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 47,
+    "group": "櫻坂46",
+    "title": "ドローン旋回中",
+    "release": "6thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 48,
+    "group": "櫻坂46",
+    "title": "承認欲求",
+    "release": "7thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 49,
+    "group": "櫻坂46",
+    "title": "マモリビト",
+    "release": "7thシングル",
+    "category": "三期生曲"
+  },
+  {
+    "id": 50,
+    "group": "櫻坂46",
+    "title": "確信的クロワッサン",
+    "release": "7thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 51,
+    "group": "櫻坂46",
+    "title": "僕たちの La vie en rose",
+    "release": "7thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 52,
+    "group": "櫻坂46",
+    "title": "Don't cut in line!",
+    "release": "7thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 53,
+    "group": "櫻坂46",
+    "title": "マンホールの蓋の上",
+    "release": "7thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 54,
+    "group": "櫻坂46",
+    "title": "隙間風よ",
+    "release": "7thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 55,
+    "group": "櫻坂46",
+    "title": "君がサヨナラ言えたって…",
+    "release": "7thシングル",
+    "category": "ソロ曲"
+  },
+  {
+    "id": 56,
+    "group": "櫻坂46",
+    "title": "何歳の頃に戻りたいのか？",
+    "release": "8thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 57,
+    "group": "櫻坂46",
+    "title": "何度 LOVE SONGの歌詞を読み返しただろう",
+    "release": "8thシングル",
+    "category": "三期生曲"
+  },
+  {
+    "id": 58,
+    "group": "櫻坂46",
+    "title": "油を注せ！",
+    "release": "8thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 59,
+    "group": "櫻坂46",
+    "title": "真夏に何か起きるのかしら",
+    "release": "8thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 60,
+    "group": "櫻坂46",
+    "title": "心の影絵",
+    "release": "8thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 61,
+    "group": "櫻坂46",
+    "title": "恋は向いてない",
+    "release": "8thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 62,
+    "group": "櫻坂46",
+    "title": "泣かせて Hold me tight!",
+    "release": "8thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 63,
+    "group": "櫻坂46",
+    "title": "自業自得",
+    "release": "9thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 64,
+    "group": "櫻坂46",
+    "title": "引きこもる時間はない",
+    "release": "9thシングル",
+    "category": "三期生曲"
+  },
+  {
+    "id": 65,
+    "group": "櫻坂46",
+    "title": "愛し合いなさい",
+    "release": "9thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 66,
+    "group": "櫻坂46",
+    "title": "イザベルについて",
+    "release": "9thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 67,
+    "group": "櫻坂46",
+    "title": "縁起担ぎ",
+    "release": "9thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 68,
+    "group": "櫻坂46",
+    "title": "標識",
+    "release": "9thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 69,
+    "group": "櫻坂46",
+    "title": "もう一曲 欲しいのかい？",
+    "release": "9thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 70,
+    "group": "櫻坂46",
+    "title": "ピッカーン！",
+    "release": "配信のみ",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 71,
+    "group": "櫻坂46",
+    "title": "I want tomorrow to come",
+    "release": "10thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 72,
+    "group": "櫻坂46",
+    "title": "本質的なこと",
+    "release": "10thシングル",
+    "category": "三期生曲"
+  },
+  {
+    "id": 73,
+    "group": "櫻坂46",
+    "title": "僕は僕を好きになれない",
+    "release": "10thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 74,
+    "group": "櫻坂46",
+    "title": "今さら Suddenly",
+    "release": "10thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 75,
+    "group": "櫻坂46",
+    "title": "嵐の前、世界の終わり",
+    "release": "10thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 76,
+    "group": "櫻坂46",
+    "title": "19歳のガレット",
+    "release": "10thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 77,
+    "group": "櫻坂46",
+    "title": "TOKYO SNOW",
+    "release": "10thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 78,
+    "group": "櫻坂46",
+    "title": "UDAGAWA GENERATION",
+    "release": "11thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 79,
+    "group": "櫻坂46",
+    "title": "Nightmare症候群",
+    "release": "11thシングル",
+    "category": "三期生曲"
+  },
+  {
+    "id": 80,
+    "group": "櫻坂46",
+    "title": "Nothing special",
+    "release": "11thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 81,
+    "group": "櫻坂46",
+    "title": "行かないで",
+    "release": "11thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 82,
+    "group": "櫻坂46",
+    "title": "ULTRAVIOLET",
+    "release": "11thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 83,
+    "group": "櫻坂46",
+    "title": "紋白蝶が確か飛んでた",
+    "release": "11thシングル",
+    "category": "二期生曲"
+  },
+  {
+    "id": 84,
+    "group": "櫻坂46",
+    "title": "やるしかないじゃん",
+    "release": "11thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 85,
+    "group": "櫻坂46",
+    "title": "Addiction",
+    "release": "2ndアルバム",
+    "category": "表題曲"
+  },
+  {
+    "id": 86,
+    "group": "櫻坂46",
+    "title": "Make or Break",
+    "release": "12thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 87,
+    "group": "櫻坂46",
+    "title": "死んだふり",
+    "release": "12thシングル",
+    "category": "四期生曲"
+  },
+  {
+    "id": 88,
+    "group": "櫻坂46",
+    "title": "港区パセリ",
+    "release": "12thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 89,
+    "group": "櫻坂46",
+    "title": "恋愛無双",
+    "release": "12thシングル",
+    "category": "三期生曲"
+  },
+  {
+    "id": 90,
+    "group": "櫻坂46",
+    "title": "真夏の大統領",
+    "release": "12thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 91,
+    "group": "櫻坂46",
+    "title": "君のことを想いながら",
+    "release": "12thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 92,
+    "group": "櫻坂46",
+    "title": "ノンアルコール",
+    "release": "12thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 93,
+    "group": "櫻坂46",
+    "title": "Unhappy birthday",
+    "release": "13thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 94,
+    "group": "櫻坂46",
+    "title": "Alter ego",
+    "release": "13thシングル",
+    "category": "四期生曲"
+  },
+  {
+    "id": 95,
+    "group": "櫻坂46",
+    "title": "木枯らしは泣かない",
+    "release": "13thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 96,
+    "group": "櫻坂46",
+    "title": "青空が見えるまで",
+    "release": "13thシングル",
+    "category": "二期生曲"
+  },
+  {
+    "id": 97,
+    "group": "櫻坂46",
+    "title": "I will be",
+    "release": "13thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 98,
+    "group": "櫻坂46",
+    "title": "夜空で一番輝いてる星の名前を僕は知らない",
+    "release": "13thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 99,
+    "group": "櫻坂46",
+    "title": "Buddies (English Version)",
+    "release": "13thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 100,
+    "group": "櫻坂46",
+    "title": "The growing up train",
+    "release": "14thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 101,
+    "group": "櫻坂46",
+    "title": "光源",
+    "release": "14thシングル",
+    "category": "四期生曲"
+  },
+  {
+    "id": 102,
+    "group": "櫻坂46",
+    "title": "ドライフルーツ",
+    "release": "14thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 103,
+    "group": "櫻坂46",
+    "title": "キスが苦い",
+    "release": "14thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 104,
+    "group": "櫻坂46",
+    "title": "くらげらしく",
+    "release": "14thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 105,
+    "group": "櫻坂46",
+    "title": "Sunny side up",
+    "release": "14thシングル",
+    "category": "ユニット曲"
+  },
+  {
+    "id": 106,
+    "group": "櫻坂46",
+    "title": "僕は向いてない",
+    "release": "14thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 107,
+    "group": "櫻坂46",
+    "title": "Lonesome rabbit",
+    "release": "15thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 108,
+    "group": "櫻坂46",
+    "title": "What's \"KAZOKU\"?",
+    "release": "15thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 109,
+    "group": "櫻坂46",
+    "title": "コインランドリー",
+    "release": "15thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 110,
+    "group": "櫻坂46",
+    "title": "We got your back",
+    "release": "15thシングル",
+    "category": "四期生曲"
+  },
+  {
+    "id": 111,
+    "group": "櫻坂46",
+    "title": "狼たちよ",
+    "release": "15thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 112,
+    "group": "櫻坂46",
+    "title": "各駅停車",
+    "release": "15thシングル",
+    "category": "四期生曲"
+  },
+  {
+    "id": 113,
+    "group": "櫻坂46",
+    "title": "恵まれ過ぎて",
+    "release": "15thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 114,
+    "group": "櫻坂46",
+    "title": "ぐんまちゃんバ！",
+    "release": "配信のみ",
+    "category": "なし"
+  },
+  {
+    "id": 115,
+    "group": "櫻坂46",
+    "title": "愛MUST BE",
+    "release": "16thシングル",
+    "category": "表題曲"
+  },
+  {
+    "id": 116,
+    "group": "櫻坂46",
+    "title": "元凶",
+    "release": "16thシングル",
+    "category": "四期生曲"
+  },
+  {
+    "id": 117,
+    "group": "櫻坂46",
+    "title": "自称バレエダンサー",
+    "release": "16thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 118,
+    "group": "櫻坂46",
+    "title": "アベセン",
+    "release": "16thシングル",
+    "category": "なし"
+  },
+  {
+    "id": 119,
+    "group": "櫻坂46",
+    "title": "1mmも飛ばない鳥",
+    "release": "16thシングル",
+    "category": "BACKS曲"
+  },
+  {
+    "id": 120,
+    "group": "櫻坂46",
+    "title": "あの日の私で",
+    "release": "16thシングル",
+    "category": "ソロ曲"
+  },
+  {
+    "id": 121,
+    "group": "櫻坂46",
+    "title": "I'm the law",
+    "release": "16thシングル",
+    "category": "ユニット曲"
+  }
+]

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1.0"
+>
+
+<title>櫻坂46 Setlist Draft</title>
+
+<link
+  rel="stylesheet"
+  href="./css/style.css"
+>
+
+<script
+  defer
+  src="./js/state.js"
+></script>
+
+<script
+  defer
+  src="./js/app.js"
+></script>
+
+<script
+  src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.6/Sortable.min.js">
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
+</head>
+
+<body>
+
+<div id="app">
+
+  <!-- ========================= -->
+  <!-- 設定画面 -->
+  <!-- ========================= -->
+
+  <section
+    id="settings-screen"
+    class="screen"
+  >
+
+    <h1>
+      櫻坂46 Setlist Draft
+    </h1>
+
+    <div class="panel">
+
+      <div class="form-group">
+
+        <label>
+          選択曲数(セットリストに組み込む曲数)(5~25)
+        </label>
+
+        <select id="target-count"></select>
+
+      </div>
+
+      <div class="form-group">
+
+        <label>
+          候補曲数(排出される楽曲数)(1~15)
+        </label>
+
+        <select id="candidate-count"></select>
+
+      </div>
+
+      <div class="form-group">
+
+        <label>
+          パス可能回数(0~15)
+        </label>
+
+        <select id="pass-count"></select>
+
+      </div>
+
+    </div>
+
+    <!-- カテゴリ -->
+
+    <details>
+
+      <summary>
+        カテゴリフィルター
+      </summary>
+
+      <div
+        id="category-filters"
+      ></div>
+
+      <div class="filter-buttons">
+
+        <button
+          id="select-all-categories"
+          type="button"
+        >
+          全選択
+        </button>
+
+        <button
+          id="clear-all-categories"
+          type="button"
+        >
+          全解除
+        </button>
+
+      </div>
+
+    </details>
+
+    <!-- リリース -->
+
+    <details>
+
+      <summary>
+        リリースフィルター
+      </summary>
+
+      <div
+        id="release-filters"
+      ></div>
+
+      <div class="filter-buttons">
+
+        <button
+          id="select-all-releases"
+          type="button"
+        >
+          全選択
+        </button>
+
+        <button
+          id="clear-all-releases"
+          type="button"
+        >
+          全解除
+        </button>
+
+      </div>
+
+    </details>
+
+    <p id="song-count">
+
+      対象楽曲数：0曲
+
+    </p>
+
+    <p id="validation-message">
+
+    </p>
+
+    <button
+      id="start-draft-btn"
+    >
+      ドラフト開始
+    </button>
+
+  </section>
+
+  <!-- ========================= -->
+  <!-- ドラフト画面 -->
+  <!-- ========================= -->
+
+  <section
+    id="draft-screen"
+    class="screen hidden"
+  >
+
+    <h1>
+      櫻坂46 Setlist Draft
+    </h1>
+
+    <div class="draft-status">
+
+      <div id="progress-text">
+
+      </div>
+
+      <div id="pass-text">
+
+      </div>
+
+    </div>
+
+    <div id="candidate-list">
+
+    </div>
+
+    <button
+      id="pass-btn"
+    >
+      パス
+    </button>
+
+    <hr>
+
+    <details open>
+
+      <summary
+        id="selected-summary"
+      >
+        選択済み楽曲（0）
+      </summary>
+
+      <div
+        id="selected-song-list"
+      >
+      </div>
+
+    </details>
+
+  </section>
+
+  <!-- ========================= -->
+  <!-- 編集画面 -->
+  <!-- ========================= -->
+
+  <section
+    id="edit-screen"
+    class="screen hidden"
+  >
+
+    <h1>
+      セットリスト編集
+    </h1>
+
+    <div class="form-group">
+
+      <label>
+        ライブタイトル
+      </label>
+
+      <input
+        id="live-title"
+        type="text"
+        placeholder="4th TOUR 東京ドーム"
+      >
+
+    </div>
+
+    <div
+      id="setlist-editor"
+    >
+    </div>
+
+    <div class="editor-buttons">
+
+      <button
+        id="add-mc-btn"
+      >
+        MC追加
+      </button>
+
+    </div>
+
+    <button
+      id="create-result-btn"
+    >
+      完成セットリスト作成
+    </button>
+
+  </section>
+
+  <!-- ========================= -->
+  <!-- 結果画面 -->
+  <!-- ========================= -->
+
+  <section
+    id="result-screen"
+    class="screen hidden"
+  >
+
+    <h1>
+      完成セットリスト
+    </h1>
+
+    <div
+      id="export-area"
+    >
+
+      <div
+        id="result-title"
+      >
+      </div>
+
+      <div
+        id="result-setlist"
+      >
+      </div>
+
+    </div>
+
+    <div class="result-buttons">
+
+      <button
+        id="save-image-btn"
+      >
+        PNG保存
+      </button>
+
+      <button
+        id="back-to-edit-btn"
+      >
+        編集に戻る
+      </button>
+
+      <button
+        id="restart-btn"
+      >
+        やり直す
+      </button>
+
+    </div>
+
+  </section>
+
+</div>
+
+</body>
+
+</html>
